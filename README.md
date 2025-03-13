@@ -1,2 +1,9 @@
-# Robert-Olender-et-al
-Uncovering modifiable comorbidity patterns in patients with a history of emergency hospitalization: An unsupervized machine learning analysis of the UK Biobank.
+Association Rules and Hierarchical Clustering in R
+--------------------------------------------------
+
+**Overview**
+This repository contains two R scripts implementing Association Rules Mining and Hierarchical Clustering.
+
+-Association_Rules_Model.R: find frequent item sets in a dataset that meet a predetermined interestingness score.
+
+-Hierarchical_Cluster_model.R: organize items in a dataset into a hierarchy of clusters based on pairwise distances.
