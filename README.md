@@ -12,9 +12,11 @@ This repository contains two R scripts implementing Association Rules Mining and
 The following R packages are required:
 
 Association Rules
+
         install.packages(c("readr", "dplyr", "tidyverse", "data.table", "ggplot2", "gridExtra", "grid", "cowplot", "arules", "reshape2", "epitools", "coxme", "forcats", "ggtext"))
 
 Hierarchical Clustering
+
         install.packages(c("readr", "dplyr", "tidyverse", "klaR", "scatterplot3d", "reshape2", "ggplot2", "dendextend", "circlize"))
 
 Note:
